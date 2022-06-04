@@ -1,0 +1,32 @@
+#main {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 1px 1px 3px rgb(12, 67, 78);
+    color: rgb(73, 194, 154);
+}
+
+#list1 {
+    color: rgb(11, 112, 112);
+    list-style-type:square;
+    list-style-position: inside;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.content {
+    background-color: rgb(252, 240, 227);
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+h2 {
+    
+}
+
+img {
+    box-shadow: 1px 1px 3px;
+}
